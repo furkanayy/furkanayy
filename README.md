@@ -45,7 +45,7 @@
 - #### DevOps :
 <code><a href="https://git-scm.com" target="_blank"><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></a></code>
 <code><a href="https://cloud.google.com" target="_blank"><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"></a></code>
-<code><a href="https://www.selenium.dev" target="_blank"><img height="50" src="https://github.com/detain/svg-logos/blob/master/svg/selenium-logo.svg"></a></code>
+<code><a href="https://www.selenium.dev" target="_blank"><img height="50" src="https://www.svgrepo.com/show/354321/selenium.svg"></a></code>
 
 
 ![Furkan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=furkanayy&show_icons=true&theme=radical&custom_title=Furkan's&nbsp;GitHub&nbsp;Stats&bg_color=00000000)
