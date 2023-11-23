@@ -16,6 +16,7 @@
 <code><a href="https://www.java.com" target="_blank"><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></a></code>
 <code><a href="https://www.javascript.com" target="_blank"><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a></code>
 <code><a href="https://www.python.org" target="_blank"><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></a></code>
+<code><a href="https://flutter.dev" target="_blank"><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"></a></code>
 
 - #### Frontend Development :
 <code><a href="https://reactjs.org" target="_blank"><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></a></code>
@@ -34,6 +35,7 @@
 <code><a href="https://www.sqlite.org/index.html" target="_blank"><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg"></a></code>
 <code><a href="https://www.microsoft.com/sql-server?rtc=1" target="_blank"><img height="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></a></code>
 <code><a href="https://www.mysql.com" target="_blank"><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"></a></code>
+<code><a href="https://firebase.google.com" target="_blank"><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"></a></code>
 
 - #### ML & DL & AI :
 <code><a href="https://tensorflow.org" target="_blank"><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"></a></code>
